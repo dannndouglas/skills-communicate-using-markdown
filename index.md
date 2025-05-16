@@ -5,3 +5,6 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [x] Open a pull request
+- [x] Modify the index.md file
+- [x] Create a task list
